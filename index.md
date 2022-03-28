@@ -8,4 +8,4 @@ Content for graphing in Python:
 - [Python Graphing Assignment](/timeseries/index.md)
 
 Link to my repository:
-- [Sample Repository]
+- [Sample Repository](https://github.com/joshbicer/Sample-Repository)
