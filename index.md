@@ -1,5 +1,6 @@
 ---
-layout: default
+title: GitHub Assignment
+description: sample description
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
