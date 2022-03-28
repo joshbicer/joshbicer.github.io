@@ -2,7 +2,7 @@
 title: GitHub Assignment
 description: sample description
 ---
-![My Picture]()
+![My Picture](/Pictures/LinkedIn Pic.jpg)
 
 Content for graphing in Python:
--[Python Graphing Assignment](/timeseries/index.md)
+- [Python Graphing Assignment](/timeseries/index.md)
