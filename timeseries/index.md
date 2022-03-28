@@ -1,7 +1,7 @@
 ---
-title: Time Series Decomposition
+title: Python Graphing Assignment
 description: Course Content
 ---
-Here is a sample time series decomposition file in Jupyter:
--
--
+Here is a sample python graphing file:
+- [Time Series Decomposition (html)](BasicGraphingAssignment.html)
+- [Time Series Decomposition (ipynb)](BasicGraphingAssignment.ipynb)
