@@ -1,6 +1,6 @@
 ---
 title: GitHub Assignment
-description: sample description
+description: Josh Bicer CTBA GitHub Page
 ---
 ![My Picture](/Pictures/LinkedIn Pic.jpg)
 
